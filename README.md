@@ -5,4 +5,4 @@ Hey y'all! I'm Majklovitch, a small web designer and developer.
 🖥️ Studying computer science atm..\
 🌐 Big fan of web technologies\
 ☕ Beginner in Java\
-🍮 Currently working in Puding Studio
+🍮 Currently working at Puding Studio
