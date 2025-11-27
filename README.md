@@ -1,3 +1,6 @@
-Hey you'll! My nickname Is Majklovitch. 
-I'm a small web developer that is still learning the HTML, CSS and JavaScript. 
-For future i want to learn TypeScript and maybe some other Languages.
+Hey y'all! I'm Majklovitch, a small web designer and developer.
+
+🇨🇿 Based in Czechia!
+🖥️ Studying computer science atm..
+🌐 Big fan of web technologies
+☕ Beginner in Java
