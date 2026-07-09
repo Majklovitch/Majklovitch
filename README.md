@@ -2,7 +2,7 @@ Hey y'all! I'm Majklovitch, a small web designer and developer.
 
 ---
 🇨🇿 Based in Czechia!\
-🖥️ Studying computer science atm..\
+🖥️ Studied computer science\
 🌐 Big fan of web technologies\
-☕ Beginner in Java\
-🍮 Currently working at JTJ Dreams Media
+🐘 PHP Backend developer\
+⭐ Working on custom PHP framework
