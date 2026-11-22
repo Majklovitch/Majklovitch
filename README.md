@@ -11,7 +11,7 @@
 - 🛠️ **Custom PHP Framework:** Currently building my own lightweight, high-performance PHP framework **Conscribe**.
 - 🌐 **Crafting custom websites:** Designing and building web projects
 - 🖥️ **Learning Rust with Claude**
-- 🛒 **Building eCommerce platform upon Conscribe**
+- 🛒 **Building eCommerce platform on Conscribe**
 
 ---
 
