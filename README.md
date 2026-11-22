@@ -10,7 +10,8 @@
 
 - 🛠️ **Custom PHP Framework:** Currently building my own lightweight, high-performance PHP framework **Conscribe**.
 - 🌐 **Crafting custom websites:** Designing and building web projects
-- 🖥️ **Want to learn TypeScript and those things**
+- 🖥️ **Learning Rust with Claude**
+- 🛒 **Building eCommerce platform upon Conscribe**
 
 ---
 
@@ -18,6 +19,6 @@
 
 - 💼 **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/michael-broth%C3%A1nek-8862903b5/)
 - 📧 **Email:** [michael@brotys.cz](mailto:michael@brotys.cz)
-- 🌐 **Portfolio:** Currently not available (will be when i'll finish my framework :D)
+- 🌐 **Portfolio:** For now this profile
 
 <p align="right"><i>""</i></p>
